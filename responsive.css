@@ -1,0 +1,17 @@
+@media screen and (max-width: 760px) {
+    .mainCont{
+        display: inline;   
+    }
+    .Result{
+        border-radius: 0px 0px 60px 60px;
+    }
+    .Result .d-flex{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 170px;
+    }
+    .description{
+        text-align: center;
+    }
+}
